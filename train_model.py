@@ -156,19 +156,26 @@ class PreferenceModel:
 
 def plot_predictions(y_true, y_pred, save_path='data/prediction_plot.png'):
     """予測結果をプロット"""
-    plt.figure(figsize=(8, 8))
-    plt.scatter(y_true, y_pred, alpha=0.6)
-    plt.plot([1, 10], [1, 10], 'r--', lw=2)
-    plt.xlabel('実際の評価', fontsize=12)
-    plt.ylabel('予測評価', fontsize=12)
-    plt.title('予測精度', fontsize=14)
-    plt.grid(True, alpha=0.3)
-    plt.xlim(0, 11)
-    plt.ylim(0, 11)
-    
-    plt.savefig(save_path, dpi=150, bbox_inches='tight')
-    print(f"予測結果のグラフを保存しました: {save_path}")
-    plt.close()
+    try:
+        import matplotlib
+        matplotlib.use('Agg')  # GUIなしバックエンド
+        import matplotlib.pyplot as plt
+        
+        plt.figure(figsize=(8, 8))
+        plt.scatter(y_true, y_pred, alpha=0.6)
+        plt.plot([1, 10], [1, 10], 'r--', lw=2)
+        plt.xlabel('実際の評価', fontsize=12)
+        plt.ylabel('予測評価', fontsize=12)
+        plt.title('予測精度', fontsize=14)
+        plt.grid(True, alpha=0.3)
+        plt.xlim(0, 11)
+        plt.ylim(0, 11)
+        
+        plt.savefig(save_path, dpi=150, bbox_inches='tight')
+        print(f"予測結果のグラフを保存しました: {save_path}")
+        plt.close()
+    except Exception as e:
+        print(f"グラフ作成をスキップしました: {e}")
 
 if __name__ == "__main__":
     model = PreferenceModel()

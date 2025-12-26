@@ -83,7 +83,7 @@ def predict_new_images(image_dir, model_path, top_n=10):
 
 if __name__ == "__main__":
     predict_new_images(
-        image_dir="data/faces",
+        image_dir="data/faces/archive/img_align_celeba/img_align_celeba",
         model_path="data/preference_model.pkl",
         top_n=10
     )

@@ -112,6 +112,6 @@ class FaceFeatureExtractor:
 if __name__ == "__main__":
     extractor = FaceFeatureExtractor()
     extractor.extract_features_from_directory(
-        image_dir="data/faces",
+        image_dir="data/faces/archive/img_align_celeba/img_align_celeba",
         output_file="data/features.json"
     )

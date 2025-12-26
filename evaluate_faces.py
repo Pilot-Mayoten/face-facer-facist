@@ -5,14 +5,13 @@
 
 import os
 import json
-import cv2
 from pathlib import Path
 import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk
 
 class FaceEvaluator:
-    def __init__(self, image_dir="data/faces", output_file="data/ratings.json"):
+    def __init__(self, image_dir="data/faces/archive", output_file="data/ratings.json"):
         self.image_dir = Path(image_dir)
         self.output_file = Path(output_file)
         self.ratings = self.load_ratings()
