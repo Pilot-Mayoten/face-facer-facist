@@ -1,0 +1,97 @@
+[
+  {
+    "filename": "IMG_2522.jpg",
+    "score": 8.73,
+    "path": "data\\faces\\IMG_2522.jpg"
+  },
+  {
+    "filename": "IMG_2515.jpg",
+    "score": 8.71,
+    "path": "data\\faces\\IMG_2515.jpg"
+  },
+  {
+    "filename": "IMG_2531.jpg",
+    "score": 8.14,
+    "path": "data\\faces\\IMG_2531.jpg"
+  },
+  {
+    "filename": "IMG_2516.jpg",
+    "score": 7.85,
+    "path": "data\\faces\\IMG_2516.jpg"
+  },
+  {
+    "filename": "IMG_2518.jpg",
+    "score": 7.7,
+    "path": "data\\faces\\IMG_2518.jpg"
+  },
+  {
+    "filename": "IMG_2521.jpg",
+    "score": 6.81,
+    "path": "data\\faces\\IMG_2521.jpg"
+  },
+  {
+    "filename": "IMG_2527.jpg",
+    "score": 6.44,
+    "path": "data\\faces\\IMG_2527.jpg"
+  },
+  {
+    "filename": "IMG_2532.jpg",
+    "score": 5.82,
+    "path": "data\\faces\\IMG_2532.jpg"
+  },
+  {
+    "filename": "IMG_2520.jpg",
+    "score": 5.44,
+    "path": "data\\faces\\IMG_2520.jpg"
+  },
+  {
+    "filename": "IMG_2523.jpg",
+    "score": 4.61,
+    "path": "data\\faces\\IMG_2523.jpg"
+  },
+  {
+    "filename": "IMG_2529.jpg",
+    "score": 3.8,
+    "path": "data\\faces\\IMG_2529.jpg"
+  },
+  {
+    "filename": "IMG_2530.jpg",
+    "score": 3.68,
+    "path": "data\\faces\\IMG_2530.jpg"
+  },
+  {
+    "filename": "IMG_2525.jpg",
+    "score": 3.48,
+    "path": "data\\faces\\IMG_2525.jpg"
+  },
+  {
+    "filename": "IMG_2519.jpg",
+    "score": 3.42,
+    "path": "data\\faces\\IMG_2519.jpg"
+  },
+  {
+    "filename": "IMG_2514.jpg",
+    "score": 3.39,
+    "path": "data\\faces\\IMG_2514.jpg"
+  },
+  {
+    "filename": "IMG_2517.jpg",
+    "score": 3.38,
+    "path": "data\\faces\\IMG_2517.jpg"
+  },
+  {
+    "filename": "IMG_2528.jpg",
+    "score": 3.29,
+    "path": "data\\faces\\IMG_2528.jpg"
+  },
+  {
+    "filename": "IMG_2524.jpg",
+    "score": 3.26,
+    "path": "data\\faces\\IMG_2524.jpg"
+  },
+  {
+    "filename": "IMG_2526.jpg",
+    "score": 2.17,
+    "path": "data\\faces\\IMG_2526.jpg"
+  }
+]

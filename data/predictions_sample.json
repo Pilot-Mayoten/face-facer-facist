@@ -1,502 +1,152 @@
 [
   {
-    "filename": "188035.jpg",
-    "score": 6.78,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\188035.jpg"
+    "filename": "sample_00008.jpg",
+    "score": 5.23,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00008.jpg"
   },
   {
-    "filename": "076029.jpg",
-    "score": 6.33,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\076029.jpg"
+    "filename": "sample_00012.jpg",
+    "score": 5.22,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00012.jpg"
   },
   {
-    "filename": "020736.jpg",
-    "score": 6.27,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\020736.jpg"
+    "filename": "sample_00022.jpg",
+    "score": 5.16,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00022.jpg"
   },
   {
-    "filename": "024395.jpg",
-    "score": 5.96,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\024395.jpg"
-  },
-  {
-    "filename": "191474.jpg",
-    "score": 5.79,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\191474.jpg"
-  },
-  {
-    "filename": "093328.jpg",
-    "score": 5.74,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\093328.jpg"
-  },
-  {
-    "filename": "176002.jpg",
-    "score": 5.7,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\176002.jpg"
-  },
-  {
-    "filename": "064335.jpg",
-    "score": 5.61,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\064335.jpg"
-  },
-  {
-    "filename": "008395.jpg",
-    "score": 5.58,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\008395.jpg"
-  },
-  {
-    "filename": "143123.jpg",
-    "score": 5.56,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\143123.jpg"
-  },
-  {
-    "filename": "132728.jpg",
-    "score": 5.5,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\132728.jpg"
-  },
-  {
-    "filename": "099796.jpg",
-    "score": 5.5,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\099796.jpg"
-  },
-  {
-    "filename": "159978.jpg",
-    "score": 5.5,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\159978.jpg"
-  },
-  {
-    "filename": "022871.jpg",
-    "score": 5.49,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\022871.jpg"
-  },
-  {
-    "filename": "059898.jpg",
-    "score": 5.45,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\059898.jpg"
-  },
-  {
-    "filename": "012078.jpg",
-    "score": 5.43,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\012078.jpg"
-  },
-  {
-    "filename": "166765.jpg",
-    "score": 5.41,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\166765.jpg"
-  },
-  {
-    "filename": "001756.jpg",
-    "score": 5.4,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\001756.jpg"
-  },
-  {
-    "filename": "117985.jpg",
-    "score": 5.39,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\117985.jpg"
-  },
-  {
-    "filename": "057467.jpg",
-    "score": 5.37,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\057467.jpg"
-  },
-  {
-    "filename": "055070.jpg",
-    "score": 5.37,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\055070.jpg"
-  },
-  {
-    "filename": "177713.jpg",
-    "score": 5.35,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\177713.jpg"
-  },
-  {
-    "filename": "193400.jpg",
-    "score": 5.33,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\193400.jpg"
-  },
-  {
-    "filename": "058667.jpg",
-    "score": 5.32,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\058667.jpg"
-  },
-  {
-    "filename": "184182.jpg",
-    "score": 5.29,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\184182.jpg"
-  },
-  {
-    "filename": "170190.jpg",
-    "score": 5.29,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\170190.jpg"
-  },
-  {
-    "filename": "154761.jpg",
-    "score": 5.27,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\154761.jpg"
-  },
-  {
-    "filename": "011454.jpg",
-    "score": 5.27,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\011454.jpg"
-  },
-  {
-    "filename": "120665.jpg",
-    "score": 5.27,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\120665.jpg"
-  },
-  {
-    "filename": "144986.jpg",
-    "score": 5.26,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\144986.jpg"
-  },
-  {
-    "filename": "064356.jpg",
-    "score": 5.19,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\064356.jpg"
-  },
-  {
-    "filename": "140835.jpg",
-    "score": 5.18,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\140835.jpg"
-  },
-  {
-    "filename": "006618.jpg",
-    "score": 5.15,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\006618.jpg"
-  },
-  {
-    "filename": "073009.jpg",
-    "score": 5.11,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\073009.jpg"
-  },
-  {
-    "filename": "088422.jpg",
-    "score": 5.11,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\088422.jpg"
-  },
-  {
-    "filename": "026881.jpg",
-    "score": 5.1,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\026881.jpg"
-  },
-  {
-    "filename": "099430.jpg",
-    "score": 5.06,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\099430.jpg"
-  },
-  {
-    "filename": "072264.jpg",
-    "score": 5.04,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\072264.jpg"
-  },
-  {
-    "filename": "199259.jpg",
-    "score": 5.04,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\199259.jpg"
-  },
-  {
-    "filename": "061146.jpg",
-    "score": 5.03,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\061146.jpg"
-  },
-  {
-    "filename": "162442.jpg",
-    "score": 5.03,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\162442.jpg"
-  },
-  {
-    "filename": "140286.jpg",
+    "filename": "sample_00006.jpg",
     "score": 5.02,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\140286.jpg"
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00006.jpg"
   },
   {
-    "filename": "050548.jpg",
-    "score": 4.98,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\050548.jpg"
-  },
-  {
-    "filename": "194501.jpg",
-    "score": 4.97,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\194501.jpg"
-  },
-  {
-    "filename": "007874.jpg",
-    "score": 4.95,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\007874.jpg"
-  },
-  {
-    "filename": "025439.jpg",
-    "score": 4.94,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\025439.jpg"
-  },
-  {
-    "filename": "069506.jpg",
-    "score": 4.91,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\069506.jpg"
-  },
-  {
-    "filename": "200490.jpg",
+    "filename": "sample_00029.jpg",
     "score": 4.78,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\200490.jpg"
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00029.jpg"
   },
   {
-    "filename": "183346.jpg",
-    "score": 4.77,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\183346.jpg"
+    "filename": "sample_00018.jpg",
+    "score": 4.64,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00018.jpg"
   },
   {
-    "filename": "026564.jpg",
-    "score": 4.77,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\026564.jpg"
-  },
-  {
-    "filename": "089382.jpg",
-    "score": 4.75,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\089382.jpg"
-  },
-  {
-    "filename": "056595.jpg",
-    "score": 4.7,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\056595.jpg"
-  },
-  {
-    "filename": "097237.jpg",
-    "score": 4.65,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\097237.jpg"
-  },
-  {
-    "filename": "121410.jpg",
-    "score": 4.65,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\121410.jpg"
-  },
-  {
-    "filename": "073036.jpg",
-    "score": 4.61,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\073036.jpg"
-  },
-  {
-    "filename": "040877.jpg",
-    "score": 4.6,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\040877.jpg"
-  },
-  {
-    "filename": "151631.jpg",
-    "score": 4.57,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\151631.jpg"
-  },
-  {
-    "filename": "173662.jpg",
-    "score": 4.51,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\173662.jpg"
-  },
-  {
-    "filename": "167932.jpg",
-    "score": 4.49,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\167932.jpg"
-  },
-  {
-    "filename": "070151.jpg",
-    "score": 4.49,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\070151.jpg"
-  },
-  {
-    "filename": "018306.jpg",
-    "score": 4.46,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\018306.jpg"
-  },
-  {
-    "filename": "029275.jpg",
-    "score": 4.44,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\029275.jpg"
-  },
-  {
-    "filename": "165102.jpg",
-    "score": 4.42,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\165102.jpg"
-  },
-  {
-    "filename": "042958.jpg",
-    "score": 4.42,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\042958.jpg"
-  },
-  {
-    "filename": "026956.jpg",
-    "score": 4.37,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\026956.jpg"
-  },
-  {
-    "filename": "191632.jpg",
-    "score": 4.37,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\191632.jpg"
-  },
-  {
-    "filename": "041975.jpg",
-    "score": 4.36,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\041975.jpg"
-  },
-  {
-    "filename": "158111.jpg",
-    "score": 4.35,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\158111.jpg"
-  },
-  {
-    "filename": "111000.jpg",
-    "score": 4.3,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\111000.jpg"
-  },
-  {
-    "filename": "194733.jpg",
+    "filename": "sample_00003.jpg",
     "score": 4.27,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\194733.jpg"
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00003.jpg"
   },
   {
-    "filename": "170675.jpg",
+    "filename": "sample_00019.jpg",
+    "score": 4.25,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00019.jpg"
+  },
+  {
+    "filename": "sample_00007.jpg",
     "score": 4.24,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\170675.jpg"
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00007.jpg"
   },
   {
-    "filename": "147401.jpg",
-    "score": 4.23,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\147401.jpg"
+    "filename": "sample_00025.jpg",
+    "score": 4.2,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00025.jpg"
   },
   {
-    "filename": "061180.jpg",
-    "score": 4.17,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\061180.jpg"
+    "filename": "sample_00016.jpg",
+    "score": 4.13,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00016.jpg"
   },
   {
-    "filename": "094300.jpg",
-    "score": 4.16,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\094300.jpg"
+    "filename": "sample_00005.jpg",
+    "score": 4.12,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00005.jpg"
   },
   {
-    "filename": "018792.jpg",
-    "score": 4.14,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\018792.jpg"
-  },
-  {
-    "filename": "110819.jpg",
+    "filename": "sample_00001.jpg",
     "score": 4.11,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\110819.jpg"
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00001.jpg"
   },
   {
-    "filename": "095835.jpg",
-    "score": 4.11,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\095835.jpg"
+    "filename": "sample_00002.jpg",
+    "score": 4.06,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00002.jpg"
   },
   {
-    "filename": "044988.jpg",
-    "score": 4.11,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\044988.jpg"
+    "filename": "sample_00015.jpg",
+    "score": 4.02,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00015.jpg"
   },
   {
-    "filename": "143234.jpg",
+    "filename": "sample_00026.jpg",
+    "score": 3.95,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00026.jpg"
+  },
+  {
+    "filename": "sample_00021.jpg",
+    "score": 3.92,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00021.jpg"
+  },
+  {
+    "filename": "sample_00030.jpg",
+    "score": 3.92,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00030.jpg"
+  },
+  {
+    "filename": "sample_00017.jpg",
     "score": 3.91,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\143234.jpg"
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00017.jpg"
   },
   {
-    "filename": "166951.jpg",
-    "score": 3.89,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\166951.jpg"
-  },
-  {
-    "filename": "052266.jpg",
+    "filename": "sample_00014.jpg",
     "score": 3.88,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\052266.jpg"
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00014.jpg"
   },
   {
-    "filename": "024645.jpg",
-    "score": 3.86,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\024645.jpg"
+    "filename": "sample_00011.jpg",
+    "score": 3.77,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00011.jpg"
   },
   {
-    "filename": "158559.jpg",
-    "score": 3.86,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\158559.jpg"
+    "filename": "sample_00024.jpg",
+    "score": 3.74,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00024.jpg"
   },
   {
-    "filename": "119086.jpg",
-    "score": 3.84,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\119086.jpg"
+    "filename": "sample_00023.jpg",
+    "score": 3.73,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00023.jpg"
   },
   {
-    "filename": "094997.jpg",
-    "score": 3.72,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\094997.jpg"
+    "filename": "sample_00004.jpg",
+    "score": 3.69,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00004.jpg"
   },
   {
-    "filename": "179511.jpg",
-    "score": 3.71,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\179511.jpg"
+    "filename": "sample_00010.jpg",
+    "score": 3.67,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00010.jpg"
   },
   {
-    "filename": "073093.jpg",
-    "score": 3.61,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\073093.jpg"
+    "filename": "sample_00028.jpg",
+    "score": 3.64,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00028.jpg"
   },
   {
-    "filename": "185033.jpg",
-    "score": 3.52,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\185033.jpg"
+    "filename": "sample_00013.jpg",
+    "score": 3.57,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00013.jpg"
   },
   {
-    "filename": "007018.jpg",
-    "score": 3.48,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\007018.jpg"
+    "filename": "sample_00020.jpg",
+    "score": 3.57,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00020.jpg"
   },
   {
-    "filename": "110187.jpg",
-    "score": 3.45,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\110187.jpg"
+    "filename": "sample_00027.jpg",
+    "score": 3.56,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00027.jpg"
   },
   {
-    "filename": "057940.jpg",
-    "score": 3.45,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\057940.jpg"
-  },
-  {
-    "filename": "077024.jpg",
-    "score": 3.39,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\077024.jpg"
-  },
-  {
-    "filename": "099849.jpg",
-    "score": 3.33,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\099849.jpg"
-  },
-  {
-    "filename": "036688.jpg",
-    "score": 3.29,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\036688.jpg"
-  },
-  {
-    "filename": "042762.jpg",
-    "score": 3.24,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\042762.jpg"
-  },
-  {
-    "filename": "155084.jpg",
-    "score": 3.21,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\155084.jpg"
-  },
-  {
-    "filename": "184311.jpg",
-    "score": 3.17,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\184311.jpg"
-  },
-  {
-    "filename": "032824.jpg",
-    "score": 3.16,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\032824.jpg"
-  },
-  {
-    "filename": "020996.jpg",
-    "score": 2.76,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\020996.jpg"
-  },
-  {
-    "filename": "090355.jpg",
-    "score": 2.32,
-    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\090355.jpg"
+    "filename": "sample_00009.jpg",
+    "score": 2.9,
+    "path": "data\\faces\\archive\\img_align_celeba\\img_align_celeba\\sample_00009.jpg"
   }
 ]
