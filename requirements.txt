@@ -1,0 +1,6 @@
+gradio>=5.0
+numpy>=1.26
+Pillow>=10.0
+requests>=2.31
+# Python 3.13 で stdlib から削除された audioop の後方互換実装（gradio→pydub が要求）
+audioop-lts; python_version >= "3.13"

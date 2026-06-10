@@ -1,0 +1,16 @@
+# 画像・学習データ・ログ（リポジトリには含めない）
+data/faces/
+data/*.db
+data/*.json
+data/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
