@@ -79,9 +79,63 @@ def face_path(name: str) -> str:
     return str(FACES_DIR / name)
 
 
-def pick_pair(faces: list[str]) -> tuple[str, str]:
-    """次に出題するペアを選ぶ。MVP ではランダム（後で能動学習に差し替え可能）。"""
-    a, b = random.sample(faces, 2)
+def _face_stats(faces: list[str]) -> tuple[dict[str, int], dict[str, int]]:
+    """各顔の登場回数(games)と勝利数(wins)を比較ログから集計する。"""
+    games = {f: 0 for f in faces}
+    wins = {f: 0 for f in faces}
+    for w, l in load_comparisons():
+        if w in games:
+            games[w] += 1
+            wins[w] += 1
+        if l in games:
+            games[l] += 1
+    return games, wins
+
+
+def _proxy_score(face: str, games: dict[str, int], wins: dict[str, int]) -> float:
+    """勝率の簡易推定(ラプラス平滑化)。0.5 が中立。BT を毎回回さず軽量に判定する。"""
+    return (wins[face] + 1.0) / (games[face] + 2.0)
+
+
+def pick_pair(
+    faces: list[str], epsilon: float = 0.15, top_k: int = 8
+) -> tuple[str, str]:
+    """
+    次に出題するペアを選ぶ（カバレッジ + 能動学習）。
+
+    - 顔A: 登場回数の少ない顔ほど選ばれやすい（全顔をまんべんなく比較する）。
+    - 顔B: A と推定勝率が近く（＝勝敗が読みにくく情報量が多い）、かつ
+      登場回数の少ない顔を優先する。
+    - 確率 epsilon で純ランダム、候補も top_k からランダム選択し、探索の偏りを防ぐ。
+
+    比較ログが少ない初期は勝率がほぼ均一になり、自然とランダムに近い挙動になる。
+    """
+    if len(faces) < 2:
+        raise ValueError("ペアを作るには顔が 2 枚以上必要です")
+
+    # 一定確率で純ランダム（探索）
+    if random.random() < epsilon:
+        a, b = random.sample(faces, 2)
+        return a, b
+
+    games, wins = _face_stats(faces)
+
+    # 顔A: 登場回数が少ないほど重みが大きい
+    weights = [1.0 / (games[f] + 1.0) ** 2 for f in faces]
+    a = random.choices(faces, weights=weights, k=1)[0]
+
+    # 顔B: A と勝率が近く、かつ未出の顔を優先（コストが小さいほど良い）
+    sa = _proxy_score(a, games, wins)
+    max_games = max(games.values()) + 1.0
+    others = [f for f in faces if f != a]
+
+    def cost(f: str) -> float:
+        closeness = abs(_proxy_score(f, games, wins) - sa)  # 小さいほど情報量大
+        coverage = games[f] / max_games                     # 小さいほど未出
+        return closeness + 0.3 * coverage
+
+    others.sort(key=cost)
+    b = random.choice(others[: min(top_k, len(others))])
     return a, b
 
 
